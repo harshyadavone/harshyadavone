@@ -1,6 +1,4 @@
-Hey there, I'm Harsh! I'm a 19-year-old full-stack developer based in India.
-
-My Portfolio - [Portfolio](https://harshdana.vercel.app)
+Check out my website -> [harshyadavone](https://harshyadavone.vercel.app)
 
 
 
